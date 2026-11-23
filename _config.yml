@@ -1,0 +1,5 @@
+title: LaOlla
+lang: es
+theme: minima
+exclude:
+  - README.md
